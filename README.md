@@ -61,8 +61,8 @@ The system allows users to manage products, categories, suppliers, and transacti
 
 ## 👤 Author
 
-* Name: Angel10599
-* Course: BSIT
+* Name: Angel M. Baldonado
+* Course: BSIT-3A
 * Project: CLI Inventory Management System
 
 ---
