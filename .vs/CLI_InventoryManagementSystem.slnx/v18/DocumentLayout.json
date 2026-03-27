@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\baldo\\OneDrive\\Desktop\\CLI_InventoryManagementSystem - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0D27AE-194D-4F7A-BFC9-CBA3E7E42C53}|CLI_InventoryManagementSystem.csproj|c:\\users\\baldo\\onedrive\\desktop\\cli_inventorymanagementsystem - copy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0D27AE-194D-4F7A-BFC9-CBA3E7E42C53}|CLI_InventoryManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0D27AE-194D-4F7A-BFC9-CBA3E7E42C53}|CLI_InventoryManagementSystem.csproj|c:\\users\\baldo\\onedrive\\desktop\\cli_inventorymanagementsystem - copy\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0D27AE-194D-4F7A-BFC9-CBA3E7E42C53}|CLI_InventoryManagementSystem.csproj|solutionrelative:category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0D27AE-194D-4F7A-BFC9-CBA3E7E42C53}|CLI_InventoryManagementSystem.csproj|c:\\users\\baldo\\onedrive\\desktop\\cli_inventorymanagementsystem - copy\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0D27AE-194D-4F7A-BFC9-CBA3E7E42C53}|CLI_InventoryManagementSystem.csproj|solutionrelative:supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0D27AE-194D-4F7A-BFC9-CBA3E7E42C53}|CLI_InventoryManagementSystem.csproj|c:\\users\\baldo\\onedrive\\desktop\\cli_inventorymanagementsystem - copy\\transactionrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0D27AE-194D-4F7A-BFC9-CBA3E7E42C53}|CLI_InventoryManagementSystem.csproj|solutionrelative:transactionrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0D27AE-194D-4F7A-BFC9-CBA3E7E42C53}|CLI_InventoryManagementSystem.csproj|c:\\users\\baldo\\onedrive\\desktop\\cli_inventorymanagementsystem - copy\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0D27AE-194D-4F7A-BFC9-CBA3E7E42C53}|CLI_InventoryManagementSystem.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0D27AE-194D-4F7A-BFC9-CBA3E7E42C53}|CLI_InventoryManagementSystem.csproj|c:\\users\\baldo\\onedrive\\desktop\\cli_inventorymanagementsystem - copy\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0D27AE-194D-4F7A-BFC9-CBA3E7E42C53}|CLI_InventoryManagementSystem.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionRecord.cs",
+              "DocumentMoniker": "C:\\Users\\baldo\\OneDrive\\Desktop\\CLI_InventoryManagementSystem - Copy\\TransactionRecord.cs",
+              "RelativeDocumentMoniker": "TransactionRecord.cs",
+              "ToolTip": "C:\\Users\\baldo\\OneDrive\\Desktop\\CLI_InventoryManagementSystem - Copy\\TransactionRecord.cs",
+              "RelativeToolTip": "TransactionRecord.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAywCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T12:37:06.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\baldo\\OneDrive\\Desktop\\CLI_InventoryManagementSystem - Copy\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\Users\\baldo\\OneDrive\\Desktop\\CLI_InventoryManagementSystem - Copy\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAywCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T12:36:20.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\baldo\\OneDrive\\Desktop\\CLI_InventoryManagementSystem - Copy\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\baldo\\OneDrive\\Desktop\\CLI_InventoryManagementSystem - Copy\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T12:35:52.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\baldo\\OneDrive\\Desktop\\CLI_InventoryManagementSystem - Copy\\Supplier.cs",
+              "RelativeDocumentMoniker": "Supplier.cs",
+              "ToolTip": "C:\\Users\\baldo\\OneDrive\\Desktop\\CLI_InventoryManagementSystem - Copy\\Supplier.cs",
+              "RelativeToolTip": "Supplier.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T12:35:21.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\baldo\\OneDrive\\Desktop\\CLI_InventoryManagementSystem - Copy\\Category.cs",
+              "RelativeDocumentMoniker": "Category.cs",
+              "ToolTip": "C:\\Users\\baldo\\OneDrive\\Desktop\\CLI_InventoryManagementSystem - Copy\\Category.cs",
+              "RelativeToolTip": "Category.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T12:34:29.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\baldo\\OneDrive\\Desktop\\CLI_InventoryManagementSystem - Copy\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\baldo\\OneDrive\\Desktop\\CLI_InventoryManagementSystem - Copy\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAANECAAAAAAAAAAAiwKQCAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T10:53:52.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

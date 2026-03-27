@@ -1,0 +1,14 @@
+C:\Users\baldo\OneDrive\Desktop\CLI_InventoryManagementSystem\bin\Debug\CLI_InventoryManagementSystem.exe.config
+C:\Users\baldo\OneDrive\Desktop\CLI_InventoryManagementSystem\bin\Debug\CLI_InventoryManagementSystem.exe
+C:\Users\baldo\OneDrive\Desktop\CLI_InventoryManagementSystem\bin\Debug\CLI_InventoryManagementSystem.pdb
+C:\Users\baldo\OneDrive\Desktop\CLI_InventoryManagementSystem\obj\Debug\CLI_InventoryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\baldo\OneDrive\Desktop\CLI_InventoryManagementSystem\obj\Debug\CLI_InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\baldo\OneDrive\Desktop\CLI_InventoryManagementSystem\obj\Debug\CLI_InventoryManagementSystem.exe
+C:\Users\baldo\OneDrive\Desktop\CLI_InventoryManagementSystem\obj\Debug\CLI_InventoryManagementSystem.pdb
+C:\Users\baldo\OneDrive\Desktop\CLI_InventoryManagementSystem - Copy\obj\Debug\CLI_InventoryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\baldo\OneDrive\Desktop\CLI_InventoryManagementSystem - Copy\obj\Debug\CLI_InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\baldo\OneDrive\Desktop\CLI_InventoryManagementSystem - Copy\obj\Debug\CLI_InventoryManagementSystem.exe
+C:\Users\baldo\OneDrive\Desktop\CLI_InventoryManagementSystem - Copy\obj\Debug\CLI_InventoryManagementSystem.pdb
+C:\Users\baldo\OneDrive\Desktop\CLI_InventoryManagementSystem - Copy\bin\Debug\CLI_InventoryManagementSystem.exe.config
+C:\Users\baldo\OneDrive\Desktop\CLI_InventoryManagementSystem - Copy\bin\Debug\CLI_InventoryManagementSystem.exe
+C:\Users\baldo\OneDrive\Desktop\CLI_InventoryManagementSystem - Copy\bin\Debug\CLI_InventoryManagementSystem.pdb
